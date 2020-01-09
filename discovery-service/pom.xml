@@ -82,14 +82,14 @@
 						<version>${fabric8-maven-plugin.version}</version>
 
 						<configuration>
-							<registry>harbor.mvmyun.com</registry>
+							<registry>registry.cn-beijing.aliyuncs.com</registry>
 							<image>
 								<name>${image.user}/${project.artifactId}:${project.version}</name>
 							</image>
 							<authConfig>
 								<push>
-									<username>admin</username>
-									<password>Harbor12345</password>
+									<username>cheche</username>
+									<password>xiaofan@1</password>
 								</push>
 							</authConfig>
 							<enricher>
