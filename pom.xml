@@ -42,8 +42,8 @@
 		</dependencies>
 	</dependencyManagement>
 	<modules>
-		<module>account-service</module>
+		<!--<module>account-service</module>-->
 		<module>discovery-service</module>
-		<module>web-service-demo</module>
+		<!--<module>web-service-demo</module>-->
 	</modules>
 </project>
